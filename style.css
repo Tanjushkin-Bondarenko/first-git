@@ -7,3 +7,7 @@ h2 {
   color: cadetblue;
   background-color: yellow;
 }
+div {
+  background-color: thistle;
+  margin: 10px;
+}
